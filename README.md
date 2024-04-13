@@ -16,5 +16,5 @@ https://haikerwalabhishek.github.io/Colorful-Sanskrit-Learn-the-Colors-in-Sanskr
 ## Preview:
 
 
-
+<img src:"https://github.com/haikerwalabhishek/Colorful-Sanskrit-Learn-the-Colors-in-Sanskrit/blob/main/sanskrit.png" height=300px width=500px>
 
